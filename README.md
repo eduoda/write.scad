@@ -2,6 +2,10 @@ write.scad
 ==========
 A simple way to use strings in openscad
 
+NOTE: When i wrote this extension I was not aware of the existence of the original write.scad (http://www.thingiverse.com/thing:16193). I have plans to change my extension's name to avoid confusion.
+
+It's not a surprise that the extensions have the same principles and that the original one have much more features. Anyway, my extension have some advantages over the original one, for example, it's much easier to create a new font file.
+
 
 howto
 =====
